@@ -1,1 +1,1 @@
-#!/bin/bash git  add
+#!/bin/bash 
